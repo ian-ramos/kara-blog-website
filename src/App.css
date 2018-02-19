@@ -26,3 +26,37 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+/* ----------------------------------------------- */
+/* REUSABLE */
+/* ----------------------------------------------- */
+
+h1, h2, h3 {
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #fff;
+  font-size: 240%;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+/* ----------------------------------------------- */
+/* IMAGES */
+/* ----------------------------------------------- */
+
+.horizontal-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/top-section-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* means it's 100% of the view port. If we didn't include this, part of image would be cut off b/c it would only fill-in where there was text*/
+  background-attachment: fixed;
+}
+
+.separator {
+  
+}
