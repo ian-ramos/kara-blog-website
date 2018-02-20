@@ -50,15 +50,22 @@ h1 {
 /* ----------------------------------------------- */
 
 .portfolio-image {
-  /* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/top-section-bg.jpg); */
-  background-image: url(./images/top-section-bg.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh; /* means it's 100% of the view port. If we didn't include this, part of image would be cut off b/c it would only fill-in where there was text*/
   background-attachment: fixed;
 }
 
+#bamboo {
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/top-section-bg.jpg); */
+  background-image: url(./images/bamboo-tumalog-falls.jpg);
+}
+
+#irish {
+  background-image: url(./images/irish-hunger-memorial.jpg);
+}
+
 .separator {
-  height: 2%;
+  height: 200px;
   width: 100%;
 }
