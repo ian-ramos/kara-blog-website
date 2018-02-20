@@ -58,18 +58,55 @@ h1 {
 
 .portfolio-image-vertical {
   background-repeat: no-repeat;
+  background-color: black;
   background-position: center;
   height: 100vh;
   background-attachment: fixed;
 }
 
-#bamboo {
+#bamboo-tumalog-falls {
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/top-section-bg.jpg); */
   background-image: url(./images/bamboo-tumalog-falls.jpg);
 }
 
-#irish {
+#irish-hunger-memorial {
   background-image: url(./images/irish-hunger-memorial.jpg);
+}
+
+#lantern-festival {
+  background-image: url(./images/lantern-festival.jpg);
+}
+
+#san-remigio-beach {
+  background-image: url(./images/san-remigio-beach.jpg);
+}
+
+#siri-yangu-bridge {
+  background-image: url(./images/siri-yangu-bridge.jpg);
+}
+
+#siri-yangu-palm-tree {
+  background-image: url(./images/siri-yangu-palm-tree.jpg);
+}
+
+#siri-yangu-boat {
+  background-image: url(./images/siri-yangu-boat.jpg);
+}
+
+#siri-yangu-tree {
+  background-image: url(./images/siri-yangu-tree.jpg);
+}
+
+#siri-yangu-balcony {
+  background-image: url(./images/siri-yangu-balcony.jpg);
+}
+
+#west35-pic1 {
+  background-image: url(./images/west35-pic1.jpg);
+}
+
+#west35-pic2 {
+  background-image: url(./images/west35-pic2.jpg);
 }
 
 .separator {
