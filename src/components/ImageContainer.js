@@ -6,9 +6,9 @@ class ImageContainer extends React.Component {
   render() {
     return (
       <div>
-        <section className="portfolio-image" id="bamboo"></section>
+        <section className="portfolio-image-vertical" id="bamboo"></section>
         <div className="separator"></div>
-        <section className="portfolio-image" id="irish"></section>
+        <section className="portfolio-image-vertical" id="irish"></section>
       </div>
     )
   }
