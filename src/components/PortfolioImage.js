@@ -6,7 +6,8 @@ class PortfolioImage extends React.Component {
   render() {
     return (
       <div>
-        hi
+        <section className={this.props.style} style={{backgroundImage: `url(${this.props.path})`}}></section>
+        <div className="separator"></div>
       </div>
     )
   }
