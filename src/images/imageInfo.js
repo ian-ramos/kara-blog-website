@@ -33,7 +33,7 @@ const imageInfo = [
   {path: west35Pic2, style: 'portfolio-image-vertical'},
   {path: charli1, style: 'portfolio-image-horizontal'},
   {path: charli2, style: 'portfolio-image-horizontal'},
-  {path: charli3, style: 'portfolio-image-horizontal'}
+  {path: charli3, style: 'portfolio-image-horizontal'},
   {path: manhattanBridge, style: 'portfolio-image-vertical'},
   {path: bridgeGazebo, style: 'portfolio-image-vertical'},
   {path: dumboBkn, style: 'portfolio-image-vertical'},
