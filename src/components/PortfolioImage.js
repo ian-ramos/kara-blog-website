@@ -3,10 +3,6 @@ import '../App.css'
 
 class PortfolioImage extends React.Component {
 
-  state = {
-    
-  }
-
   render() {
     return (
       <div>
